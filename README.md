@@ -10,4 +10,8 @@ of course I tried to style it up and wasted a lot of time.
 * style the form background (height, bg color)
 * make form responsive 
 
+### Version 1.0
+
+![screenshot of project](img/v1.PNG)
+
 
